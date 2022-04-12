@@ -14,7 +14,7 @@ public class eso : MonoBehaviour
 
         if (dolares >= 3)
         {
-            Debug.Log("El valor en pesos es mayor a 10 dolares");
+            Debug.Log("Se puede hacer un withdraw perfectamente");
         }
         else if (dolares == 2)
         {
